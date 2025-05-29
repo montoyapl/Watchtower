@@ -1,1 +1,1 @@
-⛺ Watchtower | Production Viewer
+⛺ Watchtower
